@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td>
-
+          🧠**Eu sunt Vlad !
 🏢 **[WebRapid.ro](https://webrapid.ro)** — web dev & AI studio, Romania
 
 ⚡ Construiesc platforme web custom, aplicații performante și automatizări AI pentru clienți care vor conversii, viteză și scalare — nu doar un site frumos.
