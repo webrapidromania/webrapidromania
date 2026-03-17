@@ -117,18 +117,18 @@ Noaptea construiesc tool-uri AI offline pentru că îmi place să creez lucruri 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=webrapidromania&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff77&text_color=eeeeff&icon_color=00ff77&border_color=00ff77&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webrapidromania&layout=compact&theme=chartreuse-dark&bg_color=0a0a0f&title_color=00ff77&text_color=eeeeff&border_color=00ff77" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=webrapidromania&theme=chartreuse-dark&background=0a0a0f&border=00ff77&ring=00ff77&fire=ffcc00&currStreakLabel=00ff77&sideLabels=eeeeff&dates=444466)
+| Language | Usage |
+|---|---|
+| 🟢 Bash / CMD | ![90%](https://progress-bar.dev/90/?title=&width=300&color=00ff77) |
+| 🟢 JavaScript / TypeScript | ![80%](https://progress-bar.dev/80/?title=&width=300&color=00ff77) |
+| 🟢 HTML / CSS | ![70%](https://progress-bar.dev/70/?title=&width=300&color=00ff77) |
+| 🟢 Python | ![55%](https://progress-bar.dev/55/?title=&width=300&color=00ff77) |
+| 🟢 SQL | ![35%](https://progress-bar.dev/35/?title=&width=300&color=00ff77) |
+| 🟢 Tailwind CSS | ![65%](https://progress-bar.dev/65/?title=&width=300&color=00ff77) |
 
 </div>
 
