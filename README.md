@@ -108,7 +108,7 @@ Noaptea construiesc tool-uri AI offline pentru că îmi place să creez lucruri 
 
 <div align="center">
 
-[![WR Voice Banner](https://capsule-render.vercel.app/api?type=rect&color=0f0f1a&height=120&text=WR%20Voice%20BETA%20v1.0&fontSize=36&fontColor=00ff77&desc=Local%20offline%20speech-to-text%20for%20Windows%20%E2%80%94%20100%25%20free&descSize=14&descColor=eeeeff&animation=fadeIn)](https://github.com/webrapidromania/WR-Voice)
+[![WR Voice Banner](https://capsule-render.vercel.app/api?type=rect&color=0f0f1a&height=150&text=WR%20Voice%20BETA%20v1.0&fontSize=36&fontColor=00ff77&fontAlignY=40&desc=Local%20offline%20speech-to-text%20for%20Windows%20%E2%80%94%20100%25%20free&descSize=16&descColor=00ff77&descAlignY=70&animation=fadeIn)](https://github.com/webrapidromania/WR-Voice)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice)
 [![Download](https://img.shields.io/badge/Download%20Installer-0a0a0f?style=for-the-badge&logo=windows&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/releases)
