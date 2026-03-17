@@ -85,19 +85,6 @@
 
 </div>
 
-### 🏢 AI Companies I use (ranked by vibe)
-
-<div align="center">
-
-![#1 Claude](https://img.shields.io/badge/%231%20Claude%20%F0%9F%8F%86-0a0a0f?style=for-the-badge&logo=anthropic&logoColor=00ff77)
-![#2 ChatGPT](https://img.shields.io/badge/%232%20ChatGPT-0a0a0f?style=for-the-badge&logo=openai&logoColor=ffcc00)
-![#3 Gemini](https://img.shields.io/badge/%233%20Gemini-0a0a0f?style=for-the-badge&logo=google&logoColor=4488ff)
-![#4 Grok](https://img.shields.io/badge/%234%20Grok-0a0a0f?style=for-the-badge&logo=x&logoColor=888888)
-![Meta AI](https://img.shields.io/badge/Meta%20AI-0a0a0f?style=for-the-badge&logo=meta&logoColor=555555)
-![Mistral](https://img.shields.io/badge/Mistral-0a0a0f?style=for-the-badge&logo=mistral&logoColor=555555)
-
-</div>
-
 ### 🔓 Open Source AI Tools I use
 
 <div align="center">
@@ -153,6 +140,18 @@
 [![WebRapid.ro](https://img.shields.io/badge/WebRapid.ro-0a0a0f?style=for-the-badge&logo=google-chrome&logoColor=00ff77)](https://webrapid.ro)
 
 </div>
+
+---
+
+<div align="center">
+
+### 📩 Ai un proiect în minte?
+
+**[contact@webrapid.ro](mailto:contact@webrapid.ro)** · **[webrapid.ro](https://webrapid.ro)**
+
+</div>
+
+---
 
 <div align="center">
 
