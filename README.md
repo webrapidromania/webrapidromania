@@ -108,12 +108,21 @@ Noaptea construiesc tool-uri AI offline pentru că îmi place să creez lucruri 
 
 <div align="center">
 
-[![WR Voice](https://github-readme-stats.vercel.app/api/pin/?username=webrapidromania&repo=WR-Voice&bg_color=0a0a0f&title_color=00ff77&text_color=eeeeff&icon_color=00ff77&border_color=00ff77)](https://github.com/webrapidromania/WR-Voice)
+[![WR Voice Banner](https://capsule-render.vercel.app/api?type=rect&color=0f0f1a&height=120&text=WR%20Voice%20BETA%20v1.0&fontSize=36&fontColor=00ff77&desc=Local%20offline%20speech-to-text%20for%20Windows%20%E2%80%94%20100%25%20free&descSize=14&descColor=eeeeff&animation=fadeIn)](https://github.com/webrapidromania/WR-Voice)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice)
+[![Download](https://img.shields.io/badge/Download%20Installer-0a0a0f?style=for-the-badge&logo=windows&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/releases)
+[![License](https://img.shields.io/badge/License%20MIT-0a0a0f?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/blob/main/LICENSE)
+
+| | |
+|---|---|
+| 🎤 **How it works** | Hold `CAPS LOCK` → speak → release → text appears at cursor |
+| 💻 **Platform** | Windows 10 / 11 |
+| 🧠 **Engine** | faster-whisper + CTranslate2 |
+| ⚡ **GPU** | RTX 5080 optimized · CUDA 12.8 · CPU fallback |
+| 🔒 **Privacy** | 100% offline · no cloud · no tracking · free forever |
 
 </div>
-
-> **WR Voice BETA v1.0** — Hold CAPS LOCK → speak → text appears at cursor.  
-> 100% offline · faster-whisper · RTX 5080 optimized · Windows 10/11 · Free forever
 
 ---
 
