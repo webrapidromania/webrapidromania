@@ -124,7 +124,7 @@
 [![Download](https://img.shields.io/badge/Download%20Installer-0a0a0f?style=for-the-badge&logo=windows&logoColor=00ff77)](https://github.com/webrapidromania/wr-voice/releases)
 [![License](https://img.shields.io/badge/License%20MIT-0a0a0f?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/blob/main/LICENSE.txt)
 
-<img src="https://raw.githubusercontent.com/webrapidromania/WR-Voice/main/assets/wr-voice-demo.gif" alt="WR Voice demo" width="600"/>
+<img src="https://raw.githubusercontent.com/webrapidromania/WR-Voice/main/assets/wr-voice-demo.png" alt="WR Voice demo" width="600"/>
 
 | | |
 |---|---|
