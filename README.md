@@ -12,9 +12,9 @@
 
 ---
 
-## 🧠 About me
+### 🧠 About me
 
-👋 **Eu sunt Vlad! · Hi, I'm Vlad!**
+👋 **Hi, I'm Vlad! · Eu sunt Vlad!**
 
 🏢 Founder of **[WebRapid.ro](https://webrapid.ro)** — web dev & AI studio, Romania
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Languages
+### 🛠️ Languages
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## ⚙️ Web Stack
+### ⚙️ Web Stack
 
 <div align="center">
 
@@ -64,21 +64,21 @@
 
 </div>
 
-## 🤖 AI / ML Stack
+### 🤖 AI / ML Stack
 
 <div align="center">
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=for-the-badge&logo=pytorch&logoColor=00ff77)](https://webrapid.ro)
 [![CUDA](https://img.shields.io/badge/CUDA_12.8-0a0a0f?style=for-the-badge&logo=nvidia&logoColor=00ff77)](https://webrapid.ro)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0f?style=for-the-badge&logo=huggingface&logoColor=00ff77)](https://webrapid.ro)
-[![faster--whisper](https://img.shields.io/badge/faster--whisper-0a0a0f?style=for-the-badge&logo=openai&logoColor=00ff77)](https://webrapid.ro)
+[![faster-whisper](https://img.shields.io/badge/faster--whisper-0a0a0f?style=for-the-badge&logo=openai&logoColor=00ff77)](https://webrapid.ro)
 [![CTranslate2](https://img.shields.io/badge/CTranslate2-0a0a0f?style=for-the-badge&logo=python&logoColor=00ff77)](https://webrapid.ro)
 [![LangChain](https://img.shields.io/badge/LangChain-0a0a0f?style=for-the-badge&logo=chainlink&logoColor=00ff77)](https://webrapid.ro)
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-0a0a0f?style=for-the-badge&logo=python&logoColor=00ff77)](https://webrapid.ro)
 
 </div>
 
-## 🔓 Open Source AI Tools
+### 🔓 Open Source AI Tools
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 Most Used Languages
+### 📊 Most Used Languages
 
 <div align="center">
 
@@ -102,7 +102,9 @@
 
 </div>
 
-<br/>
+---
+
+### 🔥 GitHub Streak
 
 <div align="center">
 
@@ -112,7 +114,7 @@
 
 ---
 
-## 🚀 Featured Project
+### 🚀 Featured Project
 
 <div align="center">
 
@@ -136,7 +138,7 @@
 
 ---
 
-## 🌐 Find me
+### 🌐 Find me
 
 <div align="center">
 
@@ -148,7 +150,7 @@
 
 ---
 
-## 📩 Got a project in mind? · Ai un proiect în minte?
+### 📩 Got a project in mind? · Ai un proiect în minte?
 
 <div align="center">
 
