@@ -14,13 +14,21 @@
 
 ### 🧠 About me
 
-Fondator **[WebRapid.ro](https://webrapid.ro)** — studio de web development și automatizări AI pentru IMM-uri din România.
+<table>
+<tr>
+<td>
 
-Ziua construiesc platforme web custom, aplicații performante și automatizări AI pentru clienți care vor mai mult decât un site frumos — vor conversii, viteză și scalare.
+🏢 **[WebRapid.ro](https://webrapid.ro)** — web dev & AI studio, Romania
 
-Noaptea construiesc tool-uri AI offline pentru că îmi place să creez lucruri care funcționează complet local, fără cloud, fără abonamente.
+⚡ Construiesc platforme web custom, aplicații performante și automatizări AI pentru clienți care vor conversii, viteză și scalare — nu doar un site frumos.
 
-> *"Nu facem pagini. Facem infrastructură web care ajută business-ul să crească."*
+🤖 Ca hobby, fac tool-uri AI care rulează 100% local, fără cloud, fără abonamente.
+
+💬 *"Nu fac pagini. Fac infrastructură web care ajută business-ul să crească."*
+
+</td>
+</tr>
+</table>
 
 ---
 
