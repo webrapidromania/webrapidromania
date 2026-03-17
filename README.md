@@ -147,7 +147,7 @@
 
 ### 📩 Ai un proiect în minte?
 
-**[contact@webrapid.ro](mailto:contact@webrapid.ro)** · **[webrapid.ro](https://webrapid.ro)**
+**[contact@webrapid.ro](mailto:contact@webrapid.ro)** · **[webrapid.ro/contact](https://webrapid.ro/contact)**
 
 </div>
 
