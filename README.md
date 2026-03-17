@@ -12,29 +12,22 @@
 
 ---
 
-### 🧠 About me
+## 🧠 About me
 
-<table>
-<tr>
-<td>
+👋 **Eu sunt Vlad! · Hi, I'm Vlad!**
 
-👋 **Eu sunt Vlad!**
+🏢 Founder of **[WebRapid.ro](https://webrapid.ro)** — web dev & AI studio, Romania
 
-🏢 **[WebRapid.ro](https://webrapid.ro)** — web dev & AI studio, Romania
+⚡ I build custom web platforms, high-performance apps and AI automations for clients who want more than a pretty website — they want conversions, speed and scale.
 
-⚡ Construiesc platforme web custom, aplicații performante și automatizări AI pentru clienți care vor conversii, viteză și scalare — nu doar un site frumos.
+🤖 As a hobby, I build offline AI tools that run 100% locally — no cloud, no subscriptions.
 
-🤖 Ca hobby, fac tool-uri AI care rulează 100% local, fără cloud, fără abonamente.
-
-💬 *"Nu fac pagini. Fac infrastructură web care ajută business-ul să crească."*
-
-</td>
-</tr>
-</table>
+> *"I don't make pages. I build web infrastructure that helps businesses grow."*
+> *· "Nu fac pagini. Fac infrastructură web care ajută business-ul să crească."*
 
 ---
 
-### 🛠️ Languages
+## 🛠️ Languages
 
 <div align="center">
 
@@ -49,7 +42,7 @@
 
 </div>
 
-### ⚙️ Web Stack
+## ⚙️ Web Stack
 
 <div align="center">
 
@@ -71,7 +64,7 @@
 
 </div>
 
-### 🤖 AI / ML Stack
+## 🤖 AI / ML Stack
 
 <div align="center">
 
@@ -85,7 +78,7 @@
 
 </div>
 
-### 🔓 Open Source AI Tools I use
+## 🔓 Open Source AI Tools
 
 <div align="center">
 
@@ -101,15 +94,35 @@
 
 ---
 
-### 🚀 Featured Project
+## 📊 Most Used Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=bash,js,ts,html,css,python,mysql,tailwind&theme=dark&perline=4" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=webrapidromania&theme=dark&hide_border=true&ring=00FF77&fire=00FF77&currStreakLabel=00FF77)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
 [![WR Voice Banner](https://capsule-render.vercel.app/api?type=rect&color=0f0f1a&height=150&text=WR%20Voice%20BETA%20v1.0&fontSize=36&fontColor=00ff77&fontAlignY=40&desc=Local%20offline%20speech-to-text%20for%20Windows%20%E2%80%94%20100%25%20free&descSize=16&descColor=00ff77&descAlignY=70&animation=fadeIn)](https://github.com/webrapidromania/WR-Voice)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0a0a0f?style=for-the-badge&logo=github&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice)
-[![Download](https://img.shields.io/badge/Download%20Installer-0a0a0f?style=for-the-badge&logo=windows&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/releases)
+[![Download](https://img.shields.io/badge/Download%20Installer-0a0a0f?style=for-the-badge&logo=windows&logoColor=00ff77)](https://github.com/webrapidromania/wr-voice/releases)
 [![License](https://img.shields.io/badge/License%20MIT-0a0a0f?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff77)](https://github.com/webrapidromania/WR-Voice/blob/main/LICENSE)
+
+<img src="./assets/wr-voice-demo.gif" alt="WR Voice demo" width="600"/>
 
 | | |
 |---|---|
@@ -123,29 +136,21 @@
 
 ---
 
-### 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=bash,js,ts,html,css,python,mysql,tailwind&theme=dark&perline=4" />
-
-</div>
-
----
-
-### 🌐 Find me
+## 🌐 Find me
 
 <div align="center">
 
 [![WebRapid.ro](https://img.shields.io/badge/WebRapid.ro-0a0a0f?style=for-the-badge&logo=google-chrome&logoColor=00ff77)](https://webrapid.ro)
 
+*More links coming soon.*
+
 </div>
 
 ---
 
-<div align="center">
+## 📩 Got a project in mind? · Ai un proiect în minte?
 
-### 📩 Ai un proiect în minte?
+<div align="center">
 
 **[contact@webrapid.ro](mailto:contact@webrapid.ro)** · **[webrapid.ro/contact](https://webrapid.ro/contact)**
 
