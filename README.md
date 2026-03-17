@@ -121,14 +121,7 @@ Noaptea construiesc tool-uri AI offline pentru că îmi place să creez lucruri 
 
 <div align="center">
 
-| Language | Usage |
-|---|---|
-| 🟢 Bash / CMD | ![90%](https://progress-bar.dev/90/?title=&width=300&color=00ff77) |
-| 🟢 JavaScript / TypeScript | ![80%](https://progress-bar.dev/80/?title=&width=300&color=00ff77) |
-| 🟢 HTML / CSS | ![70%](https://progress-bar.dev/70/?title=&width=300&color=00ff77) |
-| 🟢 Python | ![55%](https://progress-bar.dev/55/?title=&width=300&color=00ff77) |
-| 🟢 SQL | ![35%](https://progress-bar.dev/35/?title=&width=300&color=00ff77) |
-| 🟢 Tailwind CSS | ![65%](https://progress-bar.dev/65/?title=&width=300&color=00ff77) |
+<img src="https://skillicons.dev/icons?i=bash,js,ts,html,css,python,mysql,tailwind&theme=dark&perline=4" />
 
 </div>
 
